@@ -38,6 +38,7 @@ p {
 .img-iki{left: 700px;}
 .img-uc{left: 1400px;}
 
+
 .sliderKonum > .slider{
     position: absolute;
     left:0px;
@@ -88,3 +89,13 @@ p {
     40% {left:-1400px;}
     50% {left:-1400px;}
   }
+
+.fotograflar {
+  text-align: center;
+}
+
+.iletisim {
+  text-align: center;
+  font-size: 20px;
+  color: darkslategrey;
+}
